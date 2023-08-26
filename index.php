@@ -4,6 +4,7 @@ $HTML = <<<HTML
     <!DOCTYPE html>
     <html lang="fr">
     <head>
+        <link rel="stylesheet" type="text/css" href="style.css"
         <title>Thomas</title>
     </head>
     <body>
@@ -12,3 +13,5 @@ $HTML = <<<HTML
     </body>
     </html>
 HTML;
+
+echo $HTML ;
