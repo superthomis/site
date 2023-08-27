@@ -62,7 +62,10 @@ img {
     width: 90%;
 }
 
-p {
+.hobbies a p {
+    text-align: center;
+    width: 75%;
+    font-size: 200%;
     font-family: 'Roboto', sans-serif;
     color: whitesmoke;
     background-color: #FFBFBF;
