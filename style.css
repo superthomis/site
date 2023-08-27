@@ -63,6 +63,7 @@ img {
 }
 
 .hobbies a p {
+    display: flex;
     text-align: center;
     width: 75%;
     font-size: 200%;
