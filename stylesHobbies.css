@@ -1,0 +1,114 @@
+body {
+    margin: 0;
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+    height: 100%;
+    background-color: #141F21;
+}
+
+img {
+    width: 100%;
+}
+
+.back {
+    font-size: 400%;
+    position: absolute;
+    margin-left: 2rem;
+    margin-top: 3.5rem;
+}
+
+h1 {
+    position: absolute;
+    text-align: center;
+    width: 100%;
+    margin: 0;
+    padding: 0.5em 0;
+    font-size: 5rem;
+    color: #141F21;
+    line-height: 5.8rem;
+    font-weight: bold;
+    background-color: rgb(245, 187, 61, 0.5);
+}
+
+.intro1 {
+    display: flex;
+    text-align: justify;
+    color: rgb(245, 187, 61);
+    margin: 0;
+}
+
+.intro1 > img {
+    width: 40%;
+    margin: 4em 4em 0 4em;
+    border-radius: 30px;
+}
+
+.txtintro1 {
+    display: flex;
+    font-size: 300%;
+    align-items: center;
+    text-align: justify;
+    color: rgb(245, 187, 61);
+    margin: 0;
+    width:60%;
+    padding: 0.5em 0 0 2em;
+} 
+
+.intro2 {
+    display: flex;
+    text-align: justify;
+    color: rgb(245, 187, 61);
+    margin: 0;
+}
+
+.intro2 > img {
+    width: 40%;
+    margin: 4em;
+    border-radius: 30px;
+}
+
+.txtintro2 {
+    display: flex;
+    font-size: 300%;
+    align-items: center;
+    text-align: justify;
+    color: rgb(245, 187, 61);
+    margin: 0;
+    width: 60%;
+    padding: 0.5em 2em 0 0;
+} 
+
+
+.banderolle {
+    display: flex;
+    flex-direction: column;
+    font-size: 300%;
+    text-align: center;
+    color: #141F21;
+    background-color: rgb(245, 187, 61);
+    width: 100%;
+}
+
+.types {
+    display: flex;
+    flex-direction: column;
+    background-color: #141F21;
+    color: rgb(245, 187, 61);
+    font-size: 300%;
+    padding: 0 0.5em 2em 1em;
+}
+
+.imgfond > img {
+    border-radius: 30px;
+    width: 25%;
+    margin: 0.5em 0 0 2em
+}
+
+.imgfond {
+    display: flex;
+}
+
+.txt {
+    width: 70%;
+}
